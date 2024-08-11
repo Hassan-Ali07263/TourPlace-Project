@@ -1,0 +1,27 @@
+
+export const SCREENS={
+    SPLASH:"Splash",
+    ONBOARDINGS:"Onboardings",
+    LOGIN:"Login",
+    HOME:"Home",
+    SIGNUP:"SignUp",
+    OTPSCREEN:"OtpScreen",
+    RESETSCREEN:"ResetScreen",
+    FORGETSCREEN:"ForgetScreen",
+    CONGRATULATIONS:"Congratulations",
+    CHAT:"Chat",
+    NOTIFICATION:"Notification",
+    SAVED:"Saved",
+    MOSTVISITED:"MostVisited",
+    ROOMDETAIL:"RoomDetail",
+    HOTELDETAILS:"HotelDetails",
+    VISITERTIMER:"VisiterTimer",
+    WORLDMOSTVISITED:"WorldMostVisited",
+    PLACEDETAILS:"PlaceDetails",
+    PROFILE:"Profile",
+    SERVICES:"Services",
+    EXTRASERVICES:"ExtraServices",
+    CATEGORIES:"Categories",
+    CHATDETAILS:"ChatDetails",
+    
+}
